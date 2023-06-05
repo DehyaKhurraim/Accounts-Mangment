@@ -1,7 +1,9 @@
 # Accounts Management System
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
+![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
 This repository contains a C++ based Accounts Management System. It provides a set of functionalities to manage user accounts and perform various operations related to account management.
 
@@ -92,6 +94,8 @@ Goodbye!
 Contributions to the Accounts Management System are welcome! If you find a bug or want to suggest an improvement, please open an issue or submit a pull request. Make sure to follow the existing code style and include appropriate tests.
 
 ## License
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DehyaKhurraim/E-Learning-Platform/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/DehyaKhurraim/E-Learning-Platform/releases)
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
